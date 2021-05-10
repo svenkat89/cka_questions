@@ -11,5 +11,6 @@ Question on scaling deployment
 Question on checking which node has no taints
 Question on ETCD server from base node(Outside cluster) with current context
 Question on memory/CPU limits/requests
-Question on RBAC
+Question on RBAC using RBAC
 Question on creation of PV
+Question on schedule a pod based on NodeSelector
