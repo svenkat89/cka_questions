@@ -1,0 +1,15 @@
+Question on network policy
+Question on Ingress resource
+Question on container expose using Nodeport and updating the deployment using edit/patch kubectl command
+Question on troubleshooting the worker/master node components - Max %
+Quesiton on upgrading cluster from 1 version to another
+Question on pvc and using it in POD
+Question on sidecar container
+Question on getting on top pod with labels/filtering pods
+Question on multi containers
+Question on scaling deployment
+Question on checking which node has no taints
+Question on ETCD server from base node(Outside cluster) with current context
+Question on memory/CPU limits/requests
+Question on RBAC
+Question on creation of PV
